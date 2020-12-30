@@ -6,7 +6,7 @@ export const InfoSec = styled.div`
   background-color: ${({ lightBg }) => (lightBg ? '#fff' : '#101522')};
 
   @media screen and (max-width:760px){
-    padding-top:50px;
+    padding:70px;
   }
 `;
 
