@@ -1,4 +1,4 @@
-#https://styled-components-app.vercel.app/ --> Canlı
+# https://styled-components-app.vercel.app/ --> Canlı
 
 # Getting Started with Create React App
 
